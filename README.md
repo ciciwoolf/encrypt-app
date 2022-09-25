@@ -1,3 +1,7 @@
+## Create boilerplate repo for ppl to clone
+
+## Create separate finalized repo with full code
+
 # encrypt-app
 
 ## Helpful Websites to Get Started
