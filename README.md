@@ -1,5 +1,21 @@
 # encrypt-app
 
+## Helpful Websites to Get Started
+
+https://cli.vuejs.org/guide/installation.html
+
+https://vuetifyjs.com/en/getting-started/installation/#vue-cli-install
+
+Make sure to choose Vue2 when setting up Vuetify in your terminal!
+
+## About Encryption/Decryption, Hash, & Algorithms
+
+https://nodejs.org/en/knowledge/cryptography/how-to-use-crypto-module/
+
+## About OpenSSL
+
+https://www.openssl.org/
+
 ## Project setup
 ```
 yarn install
